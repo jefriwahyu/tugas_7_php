@@ -1,6 +1,6 @@
 # Tugas 7 PHP
 
-Membuat <b>Tabel Bilangan Ganjil Genap Menggunakan Operator Aritmatika</b>
+Membuat <b>Tabel Bilangan Ganjil Genap Menggunakan Operator Aritmatika.</b>
 
 <b>Output in browser : </b>
 
